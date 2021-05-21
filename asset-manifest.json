@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/the-fashion-show/static/css/main.f2824a0c.chunk.css",
+    "main.js": "/the-fashion-show/static/js/main.570e3510.chunk.js",
+    "main.js.map": "/the-fashion-show/static/js/main.570e3510.chunk.js.map",
+    "runtime-main.js": "/the-fashion-show/static/js/runtime-main.cda87151.js",
+    "runtime-main.js.map": "/the-fashion-show/static/js/runtime-main.cda87151.js.map",
+    "static/css/2.c62e8b9a.chunk.css": "/the-fashion-show/static/css/2.c62e8b9a.chunk.css",
+    "static/js/2.0243c934.chunk.js": "/the-fashion-show/static/js/2.0243c934.chunk.js",
+    "static/js/2.0243c934.chunk.js.map": "/the-fashion-show/static/js/2.0243c934.chunk.js.map",
+    "index.html": "/the-fashion-show/index.html",
+    "static/css/2.c62e8b9a.chunk.css.map": "/the-fashion-show/static/css/2.c62e8b9a.chunk.css.map",
+    "static/css/main.f2824a0c.chunk.css.map": "/the-fashion-show/static/css/main.f2824a0c.chunk.css.map",
+    "static/js/2.0243c934.chunk.js.LICENSE.txt": "/the-fashion-show/static/js/2.0243c934.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/the-fashion-show/static/media/slick.c94f7671.ttf",
+    "static/media/slide-1.6db8a78b.jpg": "/the-fashion-show/static/media/slide-1.6db8a78b.jpg",
+    "static/media/slide-2.a1e93ee4.jpg": "/the-fashion-show/static/media/slide-2.a1e93ee4.jpg",
+    "static/media/slide-3.7bfdaff8.jpg": "/the-fashion-show/static/media/slide-3.7bfdaff8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cda87151.js",
+    "static/css/2.c62e8b9a.chunk.css",
+    "static/js/2.0243c934.chunk.js",
+    "static/css/main.f2824a0c.chunk.css",
+    "static/js/main.570e3510.chunk.js"
+  ]
+}
