@@ -6,7 +6,7 @@
 Clone and install the dependencies:
 
 ```bash
-$ git clone https://github.com/peleadorsinley/the-fashion-show.git
+$ git clone https://github.com/juliomonica/the-fashion-show.git
 $ cd the-fashion-show/
 $ npm install
 ```
